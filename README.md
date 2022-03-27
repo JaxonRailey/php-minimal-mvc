@@ -8,7 +8,7 @@ Clearly it is only useful for educational purposes, to understand how to divide 
 
 **M** the model has the role of querying the database;  
 **V** the view hosts the html code that will be displayed in the browser;  
-**C** the controller is in the middle and communicates with both, contains the logic of the project and takes care of the data exchange between model and view.
+**C** the controller contains the logic of the project and takes care of the data exchange between model and view.
 
 :muscle: The more daring could use it as a base to create their own personal framework.
 

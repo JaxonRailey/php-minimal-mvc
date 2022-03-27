@@ -1,5 +1,5 @@
-<h1>Continenti</h1>
-<h4>Clicca su un continente per visualizzare la lista delle nazioni</h4>
+<h1>Continents</h1>
+<h4>Click on a continent to view the list of countries</h4>
 
 <ul>
     <?php foreach ($continents as $continent) { ?>

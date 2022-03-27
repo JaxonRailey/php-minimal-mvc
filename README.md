@@ -6,8 +6,8 @@ This repository is probably the simplest version of an MVC system, useful for th
 
 Clearly it is only useful for educational purposes, to understand how to divide the code according to the task.
 
-**M** the model has the role of querying the database;
-**V** the view hosts the html code that will be displayed in the browser;
+**M** the model has the role of querying the database;  
+**V** the view hosts the html code that will be displayed in the browser;  
 **C** the controller is in the middle and communicates with both, contains the logic of the project and takes care of the data exchange between model and view.
 
 :muscle: The more daring could use it as a base to create their own personal framework.
